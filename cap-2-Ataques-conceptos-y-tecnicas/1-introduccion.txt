@@ -1,0 +1,8 @@
+
+Capítulo 2: Ataques, conceptos y técnicas
+
+Este capítulo abarca las maneras en que los profesionales de la ciberseguridad analizan qué ocurrió después de un ciberataque. Explica las vulnerabilidades de software y hardware de seguridad y las distintas categorías de las vulnerabilidades de seguridad.
+
+Analiza los diferentes tipos de software malicioso (conocido como malware) y los síntomas de malware. Cubre las diferentes maneras en que los atacantes pueden infiltrarse en un sistema, así como los ataques de denegación de servicio.
+
+La mayoría de los ciberataques modernos se consideran ataques combinados. Los ataques combinados usan varias técnicas para infiltrarse en un sistema y atacarlo. Cuando un ataque no puede evitarse, es el trabajo del profesional de ciberseguridad reducir el impacto de dicho ataque.

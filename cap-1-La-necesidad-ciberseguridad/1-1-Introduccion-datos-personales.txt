@@ -1,0 +1,87 @@
+La necesidad de la ciberseguridad
+
+Este capítulo explica qué es la ciberseguridad y por qué la demanda de profesionales de ciberseguridad está creciendo. Explica qué es su identidad y sus datos en línea, dónde se encuentra y por qué es de interés para los delincuentes cibernéticos.
+
+Este capítulo también analiza qué son los datos de una organización y por qué deben protegerse. Analiza quiénes son los atacantes cibernéticos y lo que quieren. Los profesionales de la ciberseguridad deben tener las mismas habilidades que los atacantes cibernéticos, pero los profesionales de la ciberseguridad deben trabajar de acuerdo con la ley local, nacional e internacional. Los profesionales de ciberseguridad también deben usar sus habilidades con ética.
+
+Este capítulo también incluye contenido que explica brevemente la guerra cibernética y por qué las naciones y los gobiernos necesitan profesionales de la ciberseguridad para proteger a sus ciudadanos y su infraestructura.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.1 seccion
+
+¿Qué es la ciberseguridad?
+
+La red de información electrónica conectada se ha convertido en una parte integral de nuestra vida cotidiana. Todos los tipos de organizaciones, como instituciones médicas, financieras y educativas, utilizan esta red para funcionar de manera eficaz. Utilizan la red para recopilar, procesar, almacenar y compartir grandes cantidades de información digital. A medida que se recopila y se comparte más información digital, la protección de esta información se vuelve incluso más importante para nuestra seguridad nacional y estabilidad económica.
+
+La ciberseguridad es el esfuerzo constante por proteger estos sistemas de red y todos los datos contra el uso no autorizado o los daños. A nivel personal, debe proteger su identidad, sus datos y sus dispositivos informáticos. A nivel corporativo, es responsabilidad de todos proteger la reputación, los datos y los clientes de la organización. A nivel del estado, la seguridad nacional, y la seguridad y el bienestar de los ciudadanos están en juego.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.2 seccion
+
+Su identidad en línea y fuera de línea
+
+A medida que pasa más tiempo en línea, su identidad, en línea y fuera de línea, puede afectar su vida. Su identidad fuera de línea es la persona con la que sus amigos y familiares interactúan a diario en el hogar, la escuela o el trabajo. Conocen su información personal, como su nombre, edad, o dónde vive. Su identidad en línea es quién es usted en el ciberespacio. Su identidad en línea es cómo se presenta ante otros en línea. Esta identidad en línea solo debería revelar una cantidad limitada de información sobre usted.
+
+Debe tener cuidado al elegir un nombre de usuario o alias para su identidad en línea. El nombre de usuario no debe contener información personal. Debe ser algo correcto y respetuoso. Este nombre de usuario no debe llevar a extraños a pensar que es un objetivo fácil para los delitos cibernéticos o la atención no deseada.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.3 seccion
+
+Sus datos
+
+Cualquier información sobre usted puede ser considerada como sus datos. Esta información personal puede identificarlo de manera única como persona. Estos datos incluyen las imágenes y los mensajes que intercambia con su familia y amigos en línea. Otra información, como su nombre, número de seguro social, la fecha y el lugar de nacimiento, o su apellido materno, es de su conocimiento y se utiliza para identificarlo. La información como la información médica, educativa, financiera y laboral, también se puede utilizar para identificarlo en línea.
+
+Expediente médico
+
+Cada vez que asiste al consultorio del médico, más información se agrega a su historial médico. La prescripción de su médico de cabecera se vuelve parte de su historial médico. Su historial médico incluye su estado físico y mental, y otra información personal que puede no estar relacionada médicamente. Por ejemplo, si asistió a terapias durante la niñez cuando se produjeron cambios importantes en la familia, esto figurará en algún lugar de sus historias clínicas. Además de su historia médica y de la información personal, su historial médico también puede incluir información sobre su familia.
+
+Los dispositivos médicos, como las pulseras deportivas, utilizan la plataforma de la nube para permitir la transferencia, el almacenamiento y la visualización inalámbrica de los datos clínicos, como el ritmo cardíaco, la presión arterial y el azúcar en la sangre. Estos dispositivos pueden generar una enorme cantidad de datos clínicos que pueden volverse parte de su historial clínico.
+
+Historial educativo
+
+A medida que avanza en su educación, la información sobre sus notas y puntajes en las evaluaciones, su asistencia, los cursos realizados, los reconocimientos y títulos adquiridos, así como cualquier informe disciplinario puede estar en su historial educativo. Este historial también puede incluir información de contacto, salud y su historial de inmunización, así como un historial de educación especial, incluidos los programas educativos individualizados.
+
+
+Historial financiero y de empleo
+
+Su historial financiero puede incluir información sobre sus ingresos y gastos. El historial de impuestos pueden incluir talones de cheques de pago, resúmenes de la tarjeta de crédito, su calificación crediticia y otra información bancaria. Su información de empleo puede incluir su empleo anterior y su rendimiento.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.4 seccion
+
+¿Dónde están sus datos?
+
+Toda esta información es sobre usted. Existen distintas leyes que protegen la privacidad y los datos en su país. Pero, ¿sabe dónde están sus datos?
+
+Cuando está en el consultorio médico, la conversación que tiene con el médico se registra en su expediente médico. Para fines de facturación, esta información se puede compartir con la empresa de seguros para garantizar la facturación y la calidad adecuadas. Ahora, una parte de su historial médico de la visita también se encuentra en la empresa de seguros.
+
+Las tarjetas de fidelidad de la tienda pueden ser una manera conveniente de ahorrar dinero en sus compras. Sin embargo, la tienda compila un perfil de sus compras y utiliza esa información para su propio uso.
+
+El perfil muestra que un comprador compra cierta marca y sabor de crema dental regularmente
+
+La tienda utiliza esta información para identificar como objetivo al comprador con ofertas especiales del partner de marketing. Con la tarjeta de fidelidad, la tienda y el partner de marketing tienen un perfil del comportamiento de compra de un cliente.
+
+Cuando comparte sus imágenes en línea con sus amigos, ¿sabe quién puede tener una copia de las imágenes? Las copias de las imágenes están en sus propios dispositivos. Sus amigos pueden tener copias de dichas imágenes descargadas en sus dispositivos. Si las imágenes se comparten públicamente, es posible que desconocidos tengan copias de ellas también. Podrían descargar dichas imágenes o realizar capturas de pantalla de dichas imágenes. Debido a que las imágenes se publicaron en línea, también se guardan en servidores ubicados en distintas partes del mundo. Ahora las imágenes ya no se encuentran solo en sus dispositivos informáticos.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.5 seccion
+
+Sus dispositivos informáticos
+
+Sus dispositivos informáticos no solo almacenan sus datos. Ahora estos dispositivos se han convertido en el portal a sus datos y generan información sobre usted.
+
+A menos que haya seleccionado recibir los resúmenes en papel para todas sus cuentas, usted utiliza sus dispositivos informáticos para acceder a los datos. Si desea una copia digital del último resumen de la tarjeta de crédito, utiliza sus dispositivos informáticos para acceder a la página web del emisor de la tarjeta de crédito. Si desea pagar su factura de la tarjeta de crédito en línea, accede a la página web de su banco para transferir los fondos con sus dispositivos informáticos. Además de permitirle acceder a su información, los dispositivos informáticos también pueden generar información sobre usted.
+
+
+
+
+Con toda esta información sobre usted disponible en línea, sus datos personales se han vuelto rentables para los hackers.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

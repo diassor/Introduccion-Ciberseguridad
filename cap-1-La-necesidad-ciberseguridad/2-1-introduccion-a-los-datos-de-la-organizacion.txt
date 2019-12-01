@@ -1,0 +1,53 @@
+1.1 seccion
+
+Tipos de datos de la organización
+
+
+Los datos corporativos incluyen información del personal, propiedades intelectuales y datos financieros. La información del personal incluye el material de las postulaciones, la nómina, la carta de oferta, los acuerdos del empleado, y cualquier información utilizada para tomar decisiones de empleo. La propiedad intelectual, como patentes, marcas registradas y planes de nuevos productos, permite a una empresa obtener una ventaja económica sobre sus competidores. Esta propiedad intelectual se puede considerar un secreto comercial; perder esta información puede ser desastroso para el futuro de la empresa. Los datos financieros, como las declaraciones de ingresos, los balances y las declaraciones de flujo de caja de una empresa brindan información sobre el estado de la empresa.
+
+
+Internet de las cosas y datos masivos
+
+Con el surgimiento de la Internet de las cosas (IoT), hay muchos más datos para administrar y asegurar. La IoT es una gran red de objetos físicos, como sensores y equipos, que se extiende más allá de la red de computadoras tradicional. Todas estas conexiones, además del hecho de que hemos ampliado la capacidad y los servicios de almacenamiento a través de la nube y la virtualización, llevan al crecimiento exponencial de los datos. Estos datos han creado una nueva área de interés en la tecnología y los negocios denominada “datos masivos”. Con la velocidad, el volumen y la variedad de datos generados por la IoT y las operaciones diarias de la empresa, la confidencialidad, integridad y disponibilidad de estos datos son vitales para la supervivencia de la organización.
+Esta figura muestra a una empresaria con símbolos financieros que provienen de su mano.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1-2 seccion
+
+Confidencialidad, integridad y disponibilidad
+
+La confidencialidad, integridad y disponibilidad, conocidas como la tríada CID (Figura 1), es una guía para la seguridad informática de una organización. La confidencialidad garantiza la privacidad de los datos mediante la restricción del acceso con el cifrado de la autenticación. La integridad garantiza que la información sea precisa y confiable. La disponibilidad garantiza que la información esté disponible a las personas autorizadas.
+
+Confidencialidad
+
+Otro término para la confidencialidad sería privacidad. Las políticas de la empresa deben restringir el acceso a la información al personal autorizado y garantizar que solo las personas autorizadas verán estos datos. Los datos se pueden dividir en secciones según el nivel de seguridad o sensibilidad de la información. Por ejemplo, un desarrollador Java no debe tener acceso a la información personal de todos los empleados. Además, los empleados deben recibir capacitación para comprender las mejores prácticas para resguardar datos confidenciales, para protegerse y proteger a la empresa contra ataques. Entre los métodos para garantizar la confidencialidad se incluyen el cifrado de datos, nombre de usuario y contraseña, la autenticación de dos factores y la minimización de la exposición de la información confidencial.
+
+Integridad
+
+La integridad es precisión, consistencia y confiabilidad de los datos durante su ciclo de vida. Los datos deben permanecer inalterados durante la transferencia y no deben ser modificados por entidades no autorizadas. Los permisos de archivos y el control de acceso de usuarios pueden impedir el acceso no autorizado. El control de versión se puede utilizar para evitar cambios accidentales por parte de usuarios autorizados. Las copias de respaldo deben estar disponibles para restaurar los datos dañados, y la suma de comprobación del hash se puede utilizar para verificar la integridad de los datos durante la transferencia.
+
+La suma de comprobación se utiliza para verificar la integridad de los archivos, o cadenas de caracteres, luego de que se hayan transferido desde un dispositivo a otro a través de su red local o de Internet. Las sumas de comprobación se calculan con funciones de hash. Algunas de las sumas de comprobación comunes son MD5, SHA-1, SHA-256 y SHA-512. Una función de hash utiliza un algoritmo matemático para transformar los datos en un valor de longitud fija que representa los datos, tal como se muestra en la Figura 2. El valor de hash solo está allí para la comparación. Desde el valor de hash, los datos originales no se pueden recuperar directamente. Por ejemplo, si olvidó su contraseña, su contraseña no se puede recuperar desde el valor de hash. La contraseña se debe restablecer.
+
+Luego de descargar un archivo, puede verificar su integridad comparando los valores de hash del origen con el que usted generó con cualquier calculadora de hash. Al comparar los valores de hash, puede asegurarse de que el archivo no se haya alterado ni dañado durante la transferencia.
+
+Disponibilidad
+
+Mantener los equipos, realizar reparaciones de hardware, mantener los sistemas operativos y el software actualizados, así como crear respaldos, garantiza la disponibilidad de la red y los datos a los usuarios autorizados. Deben existir planes para recuperarse rápidamente ante desastres naturales o provocados por el hombre. Los equipos o software de seguridad, como los firewalls, lo protegen contra el tiempo de inactividad debido a los ataques, como la denegación de servicio (DoS). La denegación de servicio se produce cuando un atacante intenta agotar los recursos de manera tal que los servicios no estén disponibles para los usuarios.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1-3 seccion
+
+
+Laboratorio: comparar datos con un hash
+
+En esta práctica de laboratorio, generará un hash para un archivo y utilizará el valor de hash para comparar la integridad del archivo.
+
+Práctica de laboratorio: compare los datos con un hash
+descargamos el pdf 1.2.1.3 compare data with a hash
+
+http://www.slavasoft.com/download.htm
+este link es para usar la calculadora de hash
+este programa esta para windows

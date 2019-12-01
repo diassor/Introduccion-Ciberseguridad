@@ -1,0 +1,84 @@
+1.1 seccion
+
+Las consecuencias de una violación a la seguridad
+
+Proteger a las organizaciones contra cualquier ciberataque posible no es factible, por algunos motivos. La experiencia necesaria para configurar y mantener la red segura puede ser costosa. Los atacantes siempre seguirán encontrando nuevas maneras de apuntar a las redes. Con el tiempo, un ciberataque avanzado y dirigido tendrá éxito. La prioridad, luego, será con qué rapidez su equipo de seguridad puede responder al ataque para minimizar la pérdida de datos, el tiempo de inactividad y la pérdida de ingresos.
+
+
+Ahora sabe que todo lo publicado en línea puede vivir en línea para siempre, incluso si logró borrar todas las copias en su poder. Si sus servidores fueron atacados, la información confidencial del personal podría hacerse pública. Un hacker (o un grupo de hacking) puede vandalizar la página web de la empresa al publicar información falsa y arruinar la reputación de la empresa que tardó años en crearse. Los hackers también pueden tirar la página web de la empresa y hacer que esta pierda ingresos. Si la página web queda inactiva durante períodos de tiempo más largos, la empresa puede parecer poco confiable y perder posiblemente la credibilidad. Si el sitio web de la empresa o la red ha tenido una violación de seguridad, esto podría provocar la fuga de los documentos confidenciales, la revelación de los secretos comerciales y el robo de la propiedad intelectual. La pérdida de toda esta información puede impedir el crecimiento y la expansión de la empresa.
+
+El costo monetario de un ataque es mucho mayor que solo reemplazar los dispositivos perdidos o robados, invertir en la seguridad existente y fortalecer la seguridad física del edificio. La empresa será responsable de comunicarse con todos los clientes afectados por la infracción y es posible que deba prepararse para un proceso jurídico. Con toda esta confusión, los empleados pueden elegir irse de la empresa. Es posible que la empresa necesite centrarse menos en el crecimiento y más en la reparación de su reputación.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.2 seccion
+
+Ejemplo 1 de violación de seguridad
+
+El administrador de contraseñas en línea, LastPass, detectó actividad inusual en su red en julio de 2015. Resultó que los hackers habían robado las direcciones de correo electrónico de los usuarios, los recordatorios de la contraseña y los hashes de autenticación. Afortunadamente para los usuarios, los hackers no pudieron obtener el repositorio de la contraseña cifrada de nadie.
+
+Aunque hubo una violación a la seguridad, LastPass pudo de todos modos proteger la información de las cuentas de los usuarios. LastPass requiere la verificación de correo electrónico o la autenticación de varios factores cada vez que hay un nuevo inicio de sesión desde un dispositivo o una dirección IP desconocidos. Los hackers también necesitarían la contraseña principal para acceder a la cuenta.
+
+Los usuarios de LastPass también tienen cierta responsabilidad en la protección de sus cuentas. Los usuarios deben utilizar siempre contraseñas principales complejas y cambiar las contraseñas principales periódicamente. Los usuarios siempre deben tener cuidado con los ataques de phishing. Un ejemplo de un ataque de phishing sería que un atacante envíe correos electrónicos falsos en nombre de LastPass. Los correos electrónicos solicitan que los usuarios hagan clic en un enlace incrustado y cambien la contraseña. El enlace del correo electrónico se envía a una versión fraudulenta de la página web utilizada para robar la contraseña principal. Los usuarios no deben hacer clic en los enlaces incrustados en un correo electrónico. Los usuarios también deben tener cuidado con el recordatorio de la contraseña. El recordatorio de la contraseña no debe revelar sus contraseñas. Lo más importante es que los usuarios deben habilitar la autenticación de dos pasos cuando esté disponible para todo sitio web que lo ofrezca.
+
+Si los usuarios y los proveedores de servicios usan las herramientas y los procedimientos adecuados para proteger la información de los usuarios, los datos de los usuarios podrían protegerse, incluso en el caso de una brecha en la seguridad.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.3 seccion
+
+Ejemplo 2 de violación de seguridad
+
+
+El fabricante de juguetes de alta tecnología para niños, Vtech, sufrió una violación de seguridad en su base de datos en noviembre de 2015. Esta violación de seguridad podría afectar a millones de clientes en todo el mundo, incluidos los niños. La violación de seguridad de los datos expuso información confidencial, incluidos nombres de clientes, direcciones de correo electrónico, contraseñas, imágenes y registros de chat.
+
+Las tablets de juguete se habían convertido en un nuevo objetivo para los hackers. Los clientes habían compartido fotografías y habían utilizado las funciones de chat en las tablets de juguete. La información no se aseguró correctamente, y el sitio web de la empresa no admitía la comunicación segura con SSL. Aunque la violación de seguridad no expuso la información de ninguna tarjeta de crédito ni datos de identificación personal, la empresa fue suspendida en la bolsa de valores debido a la preocupación por la inmensidad del ataque.
+
+
+Vtech no protegió la información de los clientes correctamente y se vio expuesta durante la violación de seguridad. Aunque la empresa informó a sus clientes que sus contraseñas habían sido encriptadas, aún era posible que los hackers las descifraran. Las contraseñas en la base de datos se cifraron mediante la función de hash MD5, pero las preguntas y respuestas de seguridad se almacenaron en texto no cifrado. Desafortunadamente, la función de hash MD5 tiene vulnerabilidades conocidas. Los hackers pueden determinar las contraseñas originales comparando millones de valores de hash calculados previamente.
+
+
+
+Con la información expuesta en esta violación de seguridad de datos, los delincuentes cibernéticos pudieron utilizarla para crear cuentas de correo electrónico, solicitar créditos y cometer delitos antes de que los niños fueran lo suficientemente grandes como para ir a la escuela. En cuanto a los padres de estos niños, los delincuentes cibernéticos pudieron apropiarse de las cuentas en línea porque muchas personas reutilizan las contraseñas en diversos sitios web y cuentas.
+
+La infracción a la seguridad no solo afectó la privacidad de los clientes, sino que arruinó la reputación de la empresa, según lo indicó la empresa cuando su presencia en la bolsa se suspendió.
+
+Para los padres, es una llamada de atención para ser más cuidadosos sobre la privacidad de sus hijos en línea y solicitar una mejor seguridad para los productos de los niños. En cuanto a los fabricantes de productos conectados a la red, deben ser más agresivos en la protección de los datos de clientes y privacidad ahora y en el futuro, ya que el panorama de los ciberataques evoluciona.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.4 seccion
+
+Ejemplo 3 de violación de seguridad
+
+
+Equifax Inc. es una de las agencias nacionales de informes de crédito para el consumidor de Estados Unidos. Esta empresa recopila información de millones de clientes particulares y empresas en todo el mundo. En función de la información recopilada, se crean puntajes de crédito e informes de crédito acerca de los clientes. Esta información podría afectar a los clientes al solicitar préstamos y buscar empleo.
+
+
+
+En septiembre de 2017, Equifax anunció públicamente un evento de violación de datos. Los atacantes aprovecharon una vulnerabilidad en el software de aplicaciones web Apache Struts. La empresa cree que los delincuentes cibernéticos tuvieron acceso a millones de datos personales sensibles de los consumidores estadounidenses entre mayo y julio de 2017. Los datos de carácter personal incluyen nombres completos de los clientes, números de seguro social, fechas de nacimiento, direcciones y otra información personal identificatoria. Hay evidencia de que la violación podría haber afectado a clientes de Reino Unido y Canadá.
+
+
+Equifax creó un sitio web exclusivo que permite a los consumidores determinar si su información se vio comprometida, e iniciar sesión para que puedan controlar el crédito y protegerse contra el robo de identidad. Mediante el uso de un nuevo nombre de dominio en lugar de utilizar un subdominio de equifax.com, se permitió que personas maliciosas crearan sitios web no autorizados con nombres similares. Estos sitios web pueden utilizarse como parte de un plan de suplantación de identidad que intenta engañar para que se proporcione información personal. Además, un empleado de Equifax proporcionó un enlace web incorrecto en medios sociales para clientes preocupados. Afortunadamente, este sitio web fue dado de baja dentro de las 24 horas. Fue creado por una persona que lo utilizaba como una oportunidad educativa para revelar las vulnerabilidades que existen en la página de respuesta de Equifax.
+
+
+
+Como consumidor preocupado, deseará comprobar rápidamente si su información se vio comprometida para poder minimizar el impacto. En un momento de crisis, puede ser engañado para que use sitios web no autorizados. Debe ser cuidadoso al proporcionar información personal para no volver a convertirse en víctima. Además, las empresas son responsables de mantener nuestra información protegida de accesos no autorizados. Las empresas deben aplicar un parche y actualizar su software de forma periódica para mitigar el aprovechamiento de vulnerabilidades conocidas. Deben enseñar a sus empleados los procedimientos para proteger la información y qué hacer en caso de una violación, y proporcionales información al respecto.
+
+
+Por desgracia, las verdaderas víctimas de esta violación son las personas cuyos datos han sido comprometidos. En este caso, Equifax tiene la responsabilidad de proteger los datos recopilados del consumidor durante la verificación de créditos, ya que los clientes no eligieron utilizar los servicios proporcionados por Equifax. El consumidor debe confiar en la empresa para proteger la información recopilada. Además, los atacantes pueden utilizar estos datos para asumir su identidad, y es muy difícil demostrar lo contrario, ya que el atacante y la víctima conocen la misma información. En estas situaciones, lo único que puede hacer es estar alerta cuando proporcione información personal de identificación en Internet. Revise sus informes crediticios periódicamente (una vez al mes o una vez por trimestre). Denuncie de inmediato cualquier información falsa, como solicitudes de crédito que no inició o compras en sus tarjetas de crédito que no realizó.
+Esta figura muestra a un hacker intentando acceder a la información.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.5 seccion
+
+
+Práctica de laboratorio: ¿Qué fue tomado?
+
+En este laboratorio explorará algunas violaciones de seguridad para determinar qué fue tomado, qué ataques se usaron y qué puede hacer para protegerse.
+
+Laboratorio: ¿Qué fue tomado?
+https://www.scmagazine.com/
+link of news security
